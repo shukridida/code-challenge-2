@@ -20,9 +20,11 @@ Description: This function takes an array of numbers as input and returns an arr
 Example: If randomNumbers is [1, 89, 97, 2, 3, 4, 5, 6, 7, 8, 9, 10, 73, 97], generatePrimeNumbers(randomNumbers) would return [89, 97, 2, 3, 5, 7, 73, 97], as these are the prime numbers from the input array.
 
 Important Notes:
-    1) The swapCase function assumes that words are separated by spaces.
-    2) In generatePrimeNumbers, it's important to note that 1 is not considered a prime number, and the code reflects this condition. 
+    1. The swapCase function assumes that words are separated by spaces.
+    
+    2. In generatePrimeNumbers, it's important to note that 1 is not considered a prime number, and the code reflects this condition. 
         The generatePrimeNumbers function uses a simple prime number check based on divisibility by 2 and 3. While this approach may work for small datasets, for         larger datasets or more stringent prime number requirements, a more optimized prime checking algorithm may be necessary.
+        
 
 ## Installation
 
