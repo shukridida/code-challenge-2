@@ -10,10 +10,10 @@
     1. swapCase(string)
 Description: This function takes a string as input and returns the string with each word's case swapped.
 Example: Input string "The Quick Brown Fox" would return "tHE qUICK bROWN fOX".
-   2. generateArray(value1, value2)
+    2. generateArray(value1, value2)
 Description: This function generates an array of integers starting from value1 up to value2, inclusive.
 Example: generateArray(-9, 7) would return [-9, -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7].
-   3. generatePrimeNumbers(array)
+    3. generatePrimeNumbers(array)
 Description: This function takes an array of numbers as input and returns an array containing only the prime numbers from the input arlet ul =document.getElementById("todo-list")ray.
 Example: If randomNumbers is [1, 89, 97, 2, 3, 4, 5, 6, 7, 8, 9, 10, 73, 97], generatePrimeNumbers(randomNumbers) would return [89, 97, 2, 3, 5, 7, 73, 97], as these are the prime numbers from the input array.
 
